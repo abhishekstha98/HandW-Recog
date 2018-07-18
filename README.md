@@ -2,6 +2,8 @@
 
 Software to recognize handwriting.
 
+# The android is yet to run.
+
 # How to run
 
 For digit - `python digit_recognition.py`<br/>
